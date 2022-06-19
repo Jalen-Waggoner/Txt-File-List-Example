@@ -1,0 +1,13 @@
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\bin\Debug\net5.0\Game.exe
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\bin\Debug\net5.0\Game.deps.json
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\bin\Debug\net5.0\Game.dll
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\bin\Debug\net5.0\Game.pdb
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\obj\Debug\net5.0\Game.csprojAssemblyReference.cache
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\obj\Debug\net5.0\Game.dll
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\obj\Debug\net5.0\Game.pdb
+C:\Users\jwagg\source\repos\ConsoleApp1\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache
